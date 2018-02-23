@@ -1,0 +1,5 @@
+#Ignore les .class genere par javac
+**/**.class
+**.class
+**.classpath
+**.project
